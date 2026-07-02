@@ -10,12 +10,14 @@ This project is based on data analysis using Python. The main goal is to clean, 
 - Pandas
 - NumPy
 - Matplotlib
-- Jupyter Notebook
+- Jupyter Notebook (VS Code)
 
 ---
 
 ## 📂 Dataset
-The dataset used in this project contains sales-related data including categories, platforms, and total amounts.
+The dataset used in this project was obtained from Kaggle, a popular platform for datasets and data science projects.
+
+Source: https://www.kaggle.com/
 
 ---
 
@@ -30,6 +32,18 @@ The dataset used in this project contains sales-related data including categorie
 ## 📊 City Wise Sales
 
 ![City Wise Sales](./city_wise_sales.png)
+
+## 📊 Category Wise
+![Category Wise](category_wise.png)
+
+## 📊 Platform Wise Sales
+![Platform Wise Sales](platform_sales.png)
+
+## 📊 Price Distribution
+
+![Price Distribution](price_distribution.png)
+
+
 
 ## 📈 Key Insights
 - Certain categories generate higher sales than others.
