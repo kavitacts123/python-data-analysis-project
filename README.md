@@ -34,9 +34,11 @@ Source: https://www.kaggle.com/
 ![City Wise Sales](./city_wise_sales.png)
 
 ## 📊 Category Wise
+
 ![Category Wise](category_wise.png)
 
 ## 📊 Platform Wise Sales
+
 ![Platform Wise Sales](platform_sales.png)
 
 ## 📊 Price Distribution
